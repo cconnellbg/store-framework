@@ -44,12 +44,13 @@
   "flex-layout.row":{
     "children": [
       "info-card#rethink",
-      "flex-layout.row":{
-        "children": [
-          "image#electronics",
-          "image#major-appliance"
-        ]
-      }
+      "flex-layout.row"
+    ]
+  },
+  "flex-layout.row":{
+    "children": [
+      "image#electronics",
+      "image#major-appliance"
     ]
   },
  "info-card#rethink": {
