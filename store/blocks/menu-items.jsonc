@@ -1,5 +1,5 @@
 {
-  "menu-item#major-appliances": {
+  "menu-item#major-appliances1": {
       "props": {
       "type": "custom",
       "highlight": true,
