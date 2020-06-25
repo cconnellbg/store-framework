@@ -1,0 +1,24 @@
+{
+    "store.custom#landing": {
+      "blocks": [
+        "image#landingbanner",
+        "search-result-layout.customQuery"
+      ]
+    },
+    "image#landingbanner": {
+        "props": {
+            "minWidth": "100%",
+            "src": "https://www.festivalclaca.cat/imgfv/b/39-398863_image-transparent-download-palace-cuisine-with-peruvian-small.png"
+        }
+    },
+    "search-result-layout.customQuery": {
+        "props": {
+            "querySchema": {
+                "orderByField": "OrderByReleaseDateDESC",
+                "maxItemsPerPage": "8",
+                "hideUnavailableItems": "true",
+                "queryField": "Blue Top Retro Camera"
+            }
+        }
+    }
+  }
